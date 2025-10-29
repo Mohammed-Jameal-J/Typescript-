@@ -60,5 +60,5 @@ console.log(`Hobbies: ${hobbies.join(", ")}`);
 console.log(`Numbers: ${num.join(", ")}`);
 console.log(`Person: Name - ${person[0]}, Age - ${person[1]}`);
 add(5, 10);
-console.log(`Multiplication: ${multiple(5, 10)}`);
+console.log(`Multiplication: ${multiple(5, 11)}`);
 console.log(`Address: ${address.street}, ${address.city}, ${address.zipCode}`);
